@@ -8,4 +8,9 @@ for file in list_files:
     if ".pdf" in file:
         merger.append(f"PDFs/{file}")
 
-merger.write("mergedFile.pdf")
+
+merger.write("PDFs/mergedFile.pdf")
+    
+
+
+

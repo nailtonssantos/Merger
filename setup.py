@@ -22,7 +22,7 @@ buildOptions = dict(
 
 setup(
     name = "JuntarPDF",
-    version = "1.0",
+    version = "2.0",
     description = "Junte PDFs de maneira rápida e fácil",
     options = dict(build_exe = buildOptions),
     executables = executables

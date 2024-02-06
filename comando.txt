@@ -1,0 +1,3 @@
+Para gerar o executável, abra o terminal na pasta raiz do setup.py e digite o comando:
+
+python setup.py build
